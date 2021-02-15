@@ -4,6 +4,8 @@
   "private": true,
   "homepage": "http://hlavacek.github.io/sk-covid19-regions",
   "dependencies": {
+    "@material-ui/core": "^4.11.3",
+    "@material-ui/icons": "^4.11.2",
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^12.1.10",
@@ -11,9 +13,13 @@
     "@types/node": "^12.0.0",
     "@types/react": "^17.0.0",
     "@types/react-dom": "^17.0.0",
+    "fontsource-roboto": "^4.0.0",
     "gh-pages": "^3.1.0",
+    "i18next": "^19.8.7",
+    "ol": "^6.5.0",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
+    "react-i18next": "^11.8.6",
     "react-scripts": "4.0.2",
     "typescript": "^4.1.2",
     "web-vitals": "^1.0.1"
@@ -42,8 +48,19 @@
     "parserOptions": {
       "project": "./tsconfig.json"
     },
-    "plugins": 
-      ["react", "@typescript-eslint", "jest"]
+    "plugins": [
+      "react",
+      "@typescript-eslint",
+      "jest"
+    ],
+    "rules": {
+      "prettier/prettier": [
+        "error",
+        {
+          "singleQuote": true
+        }
+      ]
+    }
   },
   "browserslist": {
     "production": [
@@ -58,13 +75,14 @@
     ]
   },
   "devDependencies": {
+    "@types/ol": "^6.4.2",
     "@typescript-eslint/eslint-plugin": "^4.4.1",
     "eslint-config-airbnb-typescript": "^12.3.1",
     "eslint-config-prettier": "^7.2.0",
     "eslint-plugin-import": "^2.22.0",
     "eslint-plugin-jsx-a11y": "^6.3.1",
     "eslint-plugin-prettier": "^3.3.1",
-    "eslint-plugin-react": "^7.20.3",
+    "eslint-plugin-react": "^7.22.0",
     "eslint-plugin-react-hooks": "^4.0.8",
     "prettier": "^2.2.1"
   }
