@@ -1,23 +1,26 @@
 {
   "files": {
-    "main.css": "/sk-covid19-regions/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/sk-covid19-regions/static/js/main.20bdaf8e.chunk.js",
-    "main.js.map": "/sk-covid19-regions/static/js/main.20bdaf8e.chunk.js.map",
-    "runtime-main.js": "/sk-covid19-regions/static/js/runtime-main.f2651bee.js",
-    "runtime-main.js.map": "/sk-covid19-regions/static/js/runtime-main.f2651bee.js.map",
-    "static/js/2.b5906b4c.chunk.js": "/sk-covid19-regions/static/js/2.b5906b4c.chunk.js",
-    "static/js/2.b5906b4c.chunk.js.map": "/sk-covid19-regions/static/js/2.b5906b4c.chunk.js.map",
-    "static/js/3.22e7b3cc.chunk.js": "/sk-covid19-regions/static/js/3.22e7b3cc.chunk.js",
-    "static/js/3.22e7b3cc.chunk.js.map": "/sk-covid19-regions/static/js/3.22e7b3cc.chunk.js.map",
+    "main.css": "/sk-covid19-regions/static/css/main.3d9242d5.chunk.css",
+    "main.js": "/sk-covid19-regions/static/js/main.a9447d12.chunk.js",
+    "main.js.map": "/sk-covid19-regions/static/js/main.a9447d12.chunk.js.map",
+    "runtime-main.js": "/sk-covid19-regions/static/js/runtime-main.044c738a.js",
+    "runtime-main.js.map": "/sk-covid19-regions/static/js/runtime-main.044c738a.js.map",
+    "static/css/2.7d605113.chunk.css": "/sk-covid19-regions/static/css/2.7d605113.chunk.css",
+    "static/js/2.cf4e5839.chunk.js": "/sk-covid19-regions/static/js/2.cf4e5839.chunk.js",
+    "static/js/2.cf4e5839.chunk.js.map": "/sk-covid19-regions/static/js/2.cf4e5839.chunk.js.map",
+    "static/js/3.41b3e5e5.chunk.js": "/sk-covid19-regions/static/js/3.41b3e5e5.chunk.js",
+    "static/js/3.41b3e5e5.chunk.js.map": "/sk-covid19-regions/static/js/3.41b3e5e5.chunk.js.map",
     "index.html": "/sk-covid19-regions/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/sk-covid19-regions/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.b5906b4c.chunk.js.LICENSE.txt": "/sk-covid19-regions/static/js/2.b5906b4c.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/sk-covid19-regions/static/media/logo.6ce24c58.svg"
+    "static/css/2.7d605113.chunk.css.map": "/sk-covid19-regions/static/css/2.7d605113.chunk.css.map",
+    "static/css/main.3d9242d5.chunk.css.map": "/sk-covid19-regions/static/css/main.3d9242d5.chunk.css.map",
+    "static/js/2.cf4e5839.chunk.js.LICENSE.txt": "/sk-covid19-regions/static/js/2.cf4e5839.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/sk-covid19-regions/static/media/roboto-vietnamese-400-normal.52cebac0.woff2"
   },
   "entrypoints": [
-    "static/js/runtime-main.f2651bee.js",
-    "static/js/2.b5906b4c.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.20bdaf8e.chunk.js"
+    "static/js/runtime-main.044c738a.js",
+    "static/css/2.7d605113.chunk.css",
+    "static/js/2.cf4e5839.chunk.js",
+    "static/css/main.3d9242d5.chunk.css",
+    "static/js/main.a9447d12.chunk.js"
   ]
 }
