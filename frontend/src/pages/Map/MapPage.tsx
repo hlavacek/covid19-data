@@ -7,8 +7,8 @@ import TileLayer from './GenericLayers/TileLayer';
 import DistrictLayer from './GenericLayers/DistrictLayer';
 
 const MapPage: React.FC = () => {
-  const [center, setCenter] = useState([19.70590523920156, 48.7163185502946]);
-  const [zoom, setZoom] = useState(8);
+  const [center] = useState([19.70590523920156, 48.7163185502946]);
+  const [zoom] = useState(8);
 
   return (
     <Map center={fromLonLat(center)} zoom={zoom}>
