@@ -1,7 +1,7 @@
 const translations = {
   translation: {
     application: {
-      title: 'Slovakia COVID19',
+      title: 'Slovakia COVID19 Map',
     },
   },
 };
